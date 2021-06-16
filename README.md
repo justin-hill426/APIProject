@@ -4,3 +4,7 @@ Communicating with APIs allows you to work with microservices and with vast data
 For this project, I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other.
 
 I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and then used that data to build a prototype for an Awesome Startup employee directory.
+
+
+*Stylistic Changes*
+I changed the background color of the body tag as well as the font colors of the headings. I also added a border around every employees profile.
